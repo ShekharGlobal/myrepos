@@ -1,1 +1,1 @@
-Welcome to the version control with github
+Welcome to the version control with github training
